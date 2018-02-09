@@ -6,6 +6,8 @@
 用类名.属性可以   
 new一个对象，用对象实例.属性也可以
 
+访问非静态时必须先创建对象
+
 package charactor;
 
 public class Hero
