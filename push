@@ -1,0 +1,11 @@
+push 
+
+建仓库，得到github地址
+
+菜单->VCS->import into Version Control->Create Git Repository->e:\project\XXX
+
+右键项目->Git->Add
+
+右键项目->Git->Commit Directory之后弹出如图所示的窗口，在Commit Message 输入 test， 然后点击 Commit And Push
+
+点击Define remote,并输入
